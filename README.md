@@ -15,11 +15,11 @@
 
 <br>
 
-![Good, Cheap, Fast Checkboxes]()
+![Good, Cheap, Fast Checkboxes](images/good-cheap-fast-checkboxes.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Good-Cheap-Fast-Checkboxes/)
 
 <br>
 
